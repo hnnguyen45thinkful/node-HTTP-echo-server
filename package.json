@@ -1,0 +1,24 @@
+{
+  "name": "hello_server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hnnguyen45thinkful/node-hello-server.git"
+  },
+  "author": "Hieu Nguyen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hnnguyen45thinkful/node-hello-server/issues"
+  },
+  "homepage": "https://github.com/hnnguyen45thinkful/node-hello-server#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  },
+  "devDependencies": {}
+}
